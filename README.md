@@ -2,7 +2,8 @@
 <h3><img src = "./PizzaHub.png" style="width: 50% ;text-align: center"/></h3>
 PizzaHub is a delightful and user-friendly pizza ordering system built using the .NET platform and Windows Forms with C#. Whether you're a pizza lover, a developer, or both, this project offers a scrumptious experience that combines the joy of pizza with the power of technology.
 
-Features:
+
+<strong>Features:</strong>
 
 Easy Ordering Process: With PizzaHub, ordering your favorite pizza has never been easier. Simply select your desired toppings, crust type, and size, and let the app take care of the rest.
 
