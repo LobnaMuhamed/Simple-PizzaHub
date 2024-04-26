@@ -1,0 +1,10 @@
+D:\A new beginning 💪\C#\Pizza App 🍕\bin\Debug\Pizza App 🍕.exe.config
+D:\A new beginning 💪\C#\Pizza App 🍕\bin\Debug\Pizza App 🍕.exe
+D:\A new beginning 💪\C#\Pizza App 🍕\bin\Debug\Pizza App 🍕.pdb
+D:\A new beginning 💪\C#\Pizza App 🍕\obj\Debug\Pizza App 🍕.csproj.AssemblyReference.cache
+D:\A new beginning 💪\C#\Pizza App 🍕\obj\Debug\Pizza_App___.Form1.resources
+D:\A new beginning 💪\C#\Pizza App 🍕\obj\Debug\Pizza_App___.Properties.Resources.resources
+D:\A new beginning 💪\C#\Pizza App 🍕\obj\Debug\Pizza App 🍕.csproj.GenerateResource.cache
+D:\A new beginning 💪\C#\Pizza App 🍕\obj\Debug\Pizza App 🍕.csproj.CoreCompileInputs.cache
+D:\A new beginning 💪\C#\Pizza App 🍕\obj\Debug\Pizza App 🍕.exe
+D:\A new beginning 💪\C#\Pizza App 🍕\obj\Debug\Pizza App 🍕.pdb
